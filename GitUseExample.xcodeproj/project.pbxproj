@@ -18,6 +18,7 @@
 		DE51D910174764990099F36B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DE51D90F174764990099F36B /* Default-568h@2x.png */; };
 		DE51D913174764990099F36B /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE51D911174764990099F36B /* MainStoryboard.storyboard */; };
 		DE51D916174764990099F36B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE51D915174764990099F36B /* ViewController.m */; };
+		DE51D91E174776F60099F36B /* MapForIternerary.m in Sources */ = {isa = PBXBuildFile; fileRef = DE51D91D174776F60099F36B /* MapForIternerary.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		DE51D912174764990099F36B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		DE51D914174764990099F36B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		DE51D915174764990099F36B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DE51D91C174776F50099F36B /* MapForIternerary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapForIternerary.h; sourceTree = "<group>"; };
+		DE51D91D174776F60099F36B /* MapForIternerary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapForIternerary.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				DE51D908174764990099F36B /* AppDelegate.h */,
 				DE51D909174764990099F36B /* AppDelegate.m */,
 				DE51D911174764990099F36B /* MainStoryboard.storyboard */,
+				DE51D91C174776F50099F36B /* MapForIternerary.h */,
+				DE51D91D174776F60099F36B /* MapForIternerary.m */,
 				DE51D914174764990099F36B /* ViewController.h */,
 				DE51D915174764990099F36B /* ViewController.m */,
 				DE51D900174764990099F36B /* Supporting Files */,
@@ -176,6 +181,7 @@
 				DE51D906174764990099F36B /* main.m in Sources */,
 				DE51D90A174764990099F36B /* AppDelegate.m in Sources */,
 				DE51D916174764990099F36B /* ViewController.m in Sources */,
+				DE51D91E174776F60099F36B /* MapForIternerary.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
