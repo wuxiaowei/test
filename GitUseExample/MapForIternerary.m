@@ -9,5 +9,8 @@
 #import "MapForIternerary.h"
 
 @implementation MapForIternerary
-
+-(void)fakeMethod{
+    NSLog(@"discard");
+    
+}
 @end
