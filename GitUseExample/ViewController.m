@@ -26,4 +26,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)clickTheButton:(id)sender{
+    NSLog(@"this a git tutorial");
+    
+}
+
 @end
